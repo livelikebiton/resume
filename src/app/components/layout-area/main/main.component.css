@@ -1,0 +1,24 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    top: 10%;
+    width: 96%;
+    padding: 2%;
+}
+
+nav > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: plum;
+    margin-top: 2%;
+    border-radius: 50%;
+    padding: 3%;
+    width: 90%;
+}
+
+a {
+    text-decoration: none;
+}
